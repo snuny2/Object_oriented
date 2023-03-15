@@ -8,4 +8,10 @@ int main()
     std::cout << "Hello World!\n";
 
     return 0;
+
+    //헬로월드 출력
+    printf("Hello World!\n");
+
+    printf("asdf\n");
+    ///return 0; 추가
 }
